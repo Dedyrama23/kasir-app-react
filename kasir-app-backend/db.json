@@ -1,0 +1,240 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "nama": "Kucing"
+    },
+    {
+      "id": "2",
+      "nama": "Burung"
+    },
+    {
+      "id": "3",
+      "nama": "Ayam"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "kode": "K-01",
+      "nama": "Bolt Kuning",
+      "harga": 16000,
+      "is_ready": true,
+      "gambar": "bolt_kuning.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Kucing"
+      }
+    },
+    {
+      "id": "2",
+      "kode": "K-02",
+      "nama": "Bolt Pink",
+      "harga": 14000,
+      "is_ready": true,
+      "gambar": "kitten_oren.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Kucing"
+      }
+    },
+    {
+      "id": "3",
+      "kode": "K-03",
+      "nama": "Bolt Ungu",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "bolt_ungu.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Kucing"
+      }
+    },
+    {
+      "id": "4",
+      "kode": "K-04",
+      "nama": "Bolt Kitten",
+      "harga": 18000,
+      "is_ready": true,
+      "gambar": "kitten_oren.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Kucing"
+      }
+    },
+    {
+      "id": "5",
+      "kode": "K-05",
+      "nama": "Bolt Kuning",
+      "harga": 13000,
+      "is_ready": true,
+      "gambar": "bolt_kuning.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Kucing"
+      }
+    },
+    {
+      "id": "6",
+      "kode": "K-06",
+      "nama": "Bolt Pink",
+      "harga": 10000,
+      "is_ready": true,
+      "gambar": "kitten_oren.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Kucing"
+      }
+    },
+    {
+      "id": "7",
+      "kode": "K-07",
+      "nama": "Bolt Ungu",
+      "harga": 14000,
+      "is_ready": true,
+      "gambar": "bolt_ungu.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Kucing"
+      }
+    },
+    {
+      "id": "8",
+      "kode": "K-08",
+      "nama": "Ayam Satu",
+      "harga": 5000,
+      "is_ready": true,
+      "gambar": "ayam_2.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Ayam"
+      }
+    },
+    {
+      "id": "9",
+      "kode": "K-09",
+      "nama": "Ayam Dua",
+      "harga": 5000,
+      "is_ready": true,
+      "gambar": "ayam_2.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Ayam"
+      }
+    },
+    {
+      "id": "10",
+      "kode": "K-010",
+      "nama": "Ayam Tiga",
+      "harga": 15000,
+      "is_ready": true,
+      "gambar": "ayam_2.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Ayam"
+      }
+    },
+    {
+      "id": "11",
+      "kode": "K-011",
+      "nama": "Burung Satu",
+      "harga": 15000,
+      "is_ready": true,
+      "gambar": "burung_1.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Burung"
+      }
+    },
+    {
+      "id": "12",
+      "kode": "K-012",
+      "nama": "Burung Empat",
+      "harga": 7000,
+      "is_ready": true,
+      "gambar": "pakan_4.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Burung"
+      }
+    },
+    {
+      "id": "13",
+      "kode": "K-013",
+      "nama": "Burung Tiga",
+      "harga": 5000,
+      "is_ready": true,
+      "gambar": "pakan_3.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Burung"
+      }
+    },
+    {
+      "id": "14",
+      "kode": "K-014",
+      "nama": "Burung Dua",
+      "harga": 3000,
+      "is_ready": true,
+      "gambar": "pakan_2.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Burung"
+      }
+    }
+  ],
+  "keranjangs": [
+    {
+      "id": "9c32",
+      "jumlah": 1,
+      "total_harga": 16000,
+      "product": {
+        "id": "1",
+        "kode": "K-01",
+        "nama": "Bolt Kuning",
+        "harga": 16000,
+        "is_ready": true,
+        "gambar": "bolt_kuning.jpg",
+        "category": {
+          "id": 1,
+          "nama": "Kucing"
+        }
+      }
+    },
+    {
+      "id": "b6dd",
+      "jumlah": 1,
+      "total_harga": 14000,
+      "product": {
+        "id": "2",
+        "kode": "K-02",
+        "nama": "Bolt Pink",
+        "harga": 14000,
+        "is_ready": true,
+        "gambar": "kitten_oren.jpg",
+        "category": {
+          "id": 1,
+          "nama": "Kucing"
+        }
+      }
+    },
+    {
+      "id": "029c",
+      "jumlah": 1,
+      "total_harga": 5000,
+      "product": {
+        "id": "8",
+        "kode": "K-08",
+        "nama": "Ayam Satu",
+        "harga": 5000,
+        "is_ready": true,
+        "gambar": "ayam_2.jpg",
+        "category": {
+          "id": 3,
+          "nama": "Ayam"
+        }
+      }
+    }
+  ],
+  "pesanans": []
+}
